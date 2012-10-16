@@ -1,4 +1,4 @@
----
+--
 layout: default
 title: solution index
 name: solution
@@ -6,4 +6,4 @@ category: category
 ---
 {% include category.html %}
 
-²©Ö÷ºÜÀÁ£¬»¹Ã»ÓĞ¸üĞÂµÄÄÚÈİ¡£
+åšä¸»å¾ˆæ‡’ï¼Œè¿˜æ²¡æœ‰æ›´æ–°çš„å†…å®¹ã€‚
