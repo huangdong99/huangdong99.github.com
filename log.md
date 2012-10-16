@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: default
 title: log index
 name: log
@@ -6,4 +6,4 @@ category: category
 ---
 {% include category.html %}
 
-²©Ö÷ºÜÀÁ£¬±¾Ò³»¹Ã»ÓĞ¸üĞÂµÄÄÚÈİ
+åšä¸»å¾ˆæ‡’ï¼Œæœ¬é¡µè¿˜æ²¡æœ‰æ›´æ–°ã€‚
