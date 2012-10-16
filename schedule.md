@@ -1,7 +1,7 @@
 --
 layout: default
-title: solution index
-name: solution
+title: schedule index
+name: schedule
 category: category
 ---
 {% include category.html %}
