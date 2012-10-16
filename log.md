@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: log index
 name: log
@@ -6,4 +6,5 @@ category: category
 ---
 {% include category.html %}
 
-博主很懒，本页还没有更新。
+
+博主很懒，本页还没有更新的内容。
