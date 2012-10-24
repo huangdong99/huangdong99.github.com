@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world
-category: idea
+category: blog
 ---
 
 Hello World
