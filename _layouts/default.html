@@ -3,7 +3,7 @@
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="keywords" content="乱想,Andy@乱想,想法,idea,创意,andy huang,{{page.tags}}">
+  <meta name="keywords" content="乱想,Andy@乱想,想法,idea,创意,andy huang,{% for tg in post.tags %}{{tg}},{% endfor %}">
   <meta name="description" content="Andy huang的个人网站，记录个人的乱想，启发大家的灵感">
   <title>{{page.title}} (Andy@乱想)</title> 
 	<link rel="stylesheet" type="text/css" href="/static/styles.css" media="screen" />
