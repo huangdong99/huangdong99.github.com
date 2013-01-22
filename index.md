@@ -1,6 +1,7 @@
 ---
 layout: default
-title: »¶Ó­À´µ½AndyµÄÂÒÏë¿Õ¼ä
+title: æ¬¢è¿æ¥åˆ°Andyçš„ä¹±æƒ³ç©ºé—´
+tags: index
 ---
 
 **HuangDong.org** 
@@ -15,3 +16,5 @@ title: »¶Ó­À´µ½AndyµÄÂÒÏë¿Õ¼ä
 	{% endfor %}
 </p>	
 {% endfor %}
+
+
