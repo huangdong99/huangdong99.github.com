@@ -3,7 +3,8 @@ server: true
 auto: true
 server_port: 4000
 pygments: true
-markdown: redcarpet 
+markdown: redcarpet
+#markdown: rdiscount
 permalink: date 
 safe: false
 
