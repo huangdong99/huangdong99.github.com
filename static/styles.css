@@ -100,9 +100,15 @@ p {
 margin-bottom: 18px;
 }
 
+
 li {
 padding-left: 5px;
 }
+
+ol, ul {
+	list-style: none;
+}
+
 
 /* nav */
 
