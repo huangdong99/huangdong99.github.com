@@ -102,14 +102,15 @@ margin-bottom: 18px;
 
 
 li {
-padding-left: 5px;
+padding-left: 10px;
 list-style: disc;
 }
 
+/*
 ol, ul {
 	list-style: square;
 }
-
+*/
 
 /* nav */
 
