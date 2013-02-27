@@ -100,15 +100,16 @@ p {
 margin-bottom: 18px;
 }
 
-/*
+
 li {
 padding-left: 5px;
+list-style: disc;
 }
 
 ol, ul {
-	list-style: none;
+	list-style: square;
 }
-*/
+
 
 /* nav */
 
@@ -133,7 +134,7 @@ nav .menu a {
 display: block;
 float: left;
 margin-right: 5px;
-padding: 0px 15px;
+padding: 0px 25px;
 text-decoration: none;
 color: #08B8F9;
 }
