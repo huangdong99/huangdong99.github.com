@@ -3,7 +3,6 @@ layout: post
 title: 电动送娃车
 category: idea
 tags: 送娃 电动车
-updated: 2013-4-17
 ---
 
 电动送娃车
