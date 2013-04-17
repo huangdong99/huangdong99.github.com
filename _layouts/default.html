@@ -34,13 +34,14 @@
 			<section id="content"><!-- #content -->
 			{{content}}
         	
+			</section><!-- end of #content -->
+
         	<hr />
         	{% if page.date %}
 		        Created: <em> {{ page.date | date_to_long_string }} </em>	{% endif %}
 	        {% if page.updated %}
 		        &nbsp;Last updated: <em> {{ page.updated | date_to_long_string }} </em>	{% endif %}	
 
-			</section><!-- end of #content -->
 
 		<aside id="sidebar"><!-- sidebar --> 
 				<h3>To-Do:</h3>
