@@ -33,7 +33,13 @@
 	<section id="main"><!-- #main content and sidebar area -->
 			<section id="content"><!-- #content -->
 			{{content}}
-        
+        	
+        	<hr />
+        	{% if page.date %}
+		        Created: <em> {{ page.date | date_to_long_string }} </em>	{% endif %}
+	        {% if page.updated %}
+		        &nbsp;Last updated: <em> {{ page.updated | date_to_long_string }} </em>	{% endif %}	
+
 			</section><!-- end of #content -->
 
 		<aside id="sidebar"><!-- sidebar --> 
