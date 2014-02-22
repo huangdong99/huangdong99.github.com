@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 餐饮小店的保洁服务
 category: idea
