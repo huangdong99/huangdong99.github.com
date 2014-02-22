@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 生活在城市的鸟儿
-category: idea
+category: blog
 tags: 城市生活 农民工 新城市人
 ---
 
